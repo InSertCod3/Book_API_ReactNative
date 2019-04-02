@@ -1,0 +1,17 @@
+{
+  "name": "server_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-es6-template-engine": "^2.1.7",
+    "fuse.js": "^3.3.0"
+  }
+}
