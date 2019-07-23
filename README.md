@@ -1,6 +1,8 @@
 # React Native (Book Search App and Backend Api) ~ [![NodeJS-shield]](https://www.python.org/) [![version-shield]]() [![license-shield]]()
 [![express-require-shield]]() [![react-require-shield]]() [![react-native-require-shield]]() [![expo-require-shield]]() 
 
+### This application will connect to our backend (/server_express) and render the information to our React Native App (/book_react_native).
+
 # Setup
 ``` bash
 >>> cd /server_express
