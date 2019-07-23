@@ -3,6 +3,12 @@
 
 ### This application will connect to our backend (/server_express) and render the information to our React Native App (/book_react_native).
 
+- :heavy_check_mark: ~ Backend Api ("/server_express")
+- :heavy_check_mark: ~ Frontend UI ("/server_express")
+- :heavy_check_mark: ~ Fuzzy Search ("/server_express")
+- :heavy_check_mark: ~ Realtime Search ("/server_express")
+
+
 # Setup
 ``` bash
 >>> cd /server_express
